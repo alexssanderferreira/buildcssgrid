@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.3a122182.css",
+    "main.css": "/static/css/main.b6ba70fc.css",
     "main.js": "/static/js/main.dfd449c8.js",
     "static/media/fortnite.jpg": "/static/media/fortnite.c483b534e53b60c2a956.jpg",
     "static/media/pubg.jpg": "/static/media/pubg.6eebf78d0b2fc6c36a3d.jpg",
     "static/media/cs-go.jpg": "/static/media/cs-go.76b269eec057728b9cb0.jpg",
     "static/media/slack.png": "/static/media/slack.2f5a5e15bac4d440d79c.png",
     "index.html": "/index.html",
-    "main.3a122182.css.map": "/static/css/main.3a122182.css.map",
+    "main.b6ba70fc.css.map": "/static/css/main.b6ba70fc.css.map",
     "main.dfd449c8.js.map": "/static/js/main.dfd449c8.js.map"
   },
   "entrypoints": [
-    "static/css/main.3a122182.css",
+    "static/css/main.b6ba70fc.css",
     "static/js/main.dfd449c8.js"
   ]
 }
